@@ -1,0 +1,24 @@
+body {
+  background-image: url(./img/fl.jpg);
+  background-size: auto;
+}
+h1,
+h2 {
+  color: rgb(14, 12, 13);
+}
+.e {
+  text-align: center;
+  font-size: 200%;
+}
+.w {
+  font-size: 200;
+}
+[href] {
+  color: rgb(255, 32, 7);
+}
+[href]:active {
+  color: rgb(240, 54, 7);
+}
+[href]:visited {
+  color: rgb(194, 26, 255);
+}

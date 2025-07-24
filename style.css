@@ -1,0 +1,28 @@
+body {
+  background-image: url(./img/back.jpg);
+  background-size: auto;
+}
+img {
+  width: 100px;
+  float: left;
+  border-radius: 50px;
+  border-style: dashed;
+  margin-left: 50px;
+}
+h1 {
+  color: rgb(24, 23, 22);
+  text-align: center;
+}
+
+[href] {
+  color: rgb(23, 23, 23);
+  background-color: beige;
+}
+[href]:active {
+  color: rgb(240, 54, 7);
+  background-color: rgb(238, 235, 235);
+}
+div {
+  font-size: 250%;
+  text-align: center;
+}
